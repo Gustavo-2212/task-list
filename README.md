@@ -14,3 +14,6 @@ This api simiulate a **TO-DO** list
 * [PUT] - [/1](): Change a record identified by **1**. **Obs.:** This endpoint must have a json body with the updated task
 * [DELETE] - [/1]():
 Endpoint to delete the record identified by **1**
+
+> To Run th API 
+    Execute the command in root directory of the project: **```dotnet watch run```**
